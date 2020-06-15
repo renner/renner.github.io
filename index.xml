@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>renner.github.io</title>
+    <title>Johannes Renner</title>
     <link>https://renner.github.io/</link>
-    <description>Recent content on renner.github.io</description>
+    <description>Recent content on Johannes Renner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,7 +17,7 @@
       
       <guid>https://renner.github.io/about/</guid>
       <description>Hello, my name is Johannes. I created this page as a personal portfolio and to showcase some of my photography and other projects.
-I take inspiration from streets, landscapes, people, the sky, pretty much anything that has beautiful shapes or colors. Working as an Engineering Manager for an international software company I spend my available time as an enthusiastic photographer, curious programmer and I especially enjoy being outdoors climbing rocks as well as taking pictures of people climbing.</description>
+I take inspiration from streets, landscapes, people, the sky, pretty much anything that has beautiful shapes or colors. Working professionally as an Engineering Manager for an international software company I spend my available time as an enthusiastic photographer, curious programmer and I especially enjoy being outdoors climbing rocks as well as taking pictures of people climbing.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ I take inspiration from streets, landscapes, people, the sky, pretty much anythi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://renner.github.io/photography/clouds/</guid>
-      <description>This is a gallery of some of my favorite pictures of clouds and skies.</description>
+      <description>This album is featuring some of my favorite photos of clouds and skies.</description>
     </item>
     
   </channel>
